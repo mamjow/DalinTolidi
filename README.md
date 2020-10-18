@@ -1,4 +1,4 @@
-# ERP
+# simple ERP for mushroom farm
 
 
 ###### An ERP software for a mushroom farm with RFID authentication for workers ,payment history and managing of all incomes and expenses, capable of managing more than 1 farm.
