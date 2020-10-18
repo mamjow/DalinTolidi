@@ -6,6 +6,6 @@
 This Software has been written in 2013-2015 as learning projects
 
 
-![image](mainpanel.png)
+![image](MainPanel.png)
 
-![image](otherpanels.jpg)
+![image](otherPanels.png)
